@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikWay</string>
+    <string name="SAVED">This is Saved Page!</string>
+    <string name="SEARCH">This is Search Page!</string>
+</resources>
